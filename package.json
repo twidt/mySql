@@ -1,0 +1,21 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Assigment 12",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^3.1.1",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twidt/mySql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/twidt/mySql.git"
+}
